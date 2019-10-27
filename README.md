@@ -6,4 +6,4 @@
 <b>ソースコードの場所</b><br>
 スクリプト：Assets/, Assets/Script/
 
-![alt](image.gif)
+![alt](image.png)
